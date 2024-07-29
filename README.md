@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bolin12
-- 👀 I’m interested in HPC
-- 🌱 I’m currently learning RISCV
+- 👀 I’m interested in HPC, Rendering
+- 🌱 I’m currently learning RISCV, UE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
